@@ -18,10 +18,10 @@ class ContactUsFragment : Fragment() {
    lateinit var binding: FragmentContactUsBinding
 
    object Constants{
-       const val email = "ankursenpai@gmail.com"
-       const val mob_No = "+917048216866"
-       const val X_LINK = "https://twitter.com/AnkurKushwaha23"
-       const val LINKEDIN_LINK = "https://www.linkedin.com/in/ankur-kushwaha-818791248/"
+       const val email = "myEmail@gmail.com"
+       const val mob_No = "+91000000000"
+       const val X_LINK = "https://twitter.com/myTwitter"
+       const val LINKEDIN_LINK = "https://www.linkedin.com/in/myLinkedIn/"
        const val GITHUB_LINK = "https://github.com/AnkurKushwaha23/"
    }
 
